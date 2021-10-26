@@ -1,8 +1,7 @@
-# Cristopher Soto - Full Stack Developer
+# Cristopher Soto 
+##Full Stack Developer
 
-Hi There, I'm Cristopher
-
-I am a Full Stack developer and Computer Science student at Hunter Colleger. I am skilled in Python, SQLite, Flask, C, Javascript, HTML/CSS/Bootstrap.
+Hi There, I'm Cristopher. I am a Full Stack developer and Computer Science student at Hunter Colleger. I am skilled in Python, SQLite, Flask, C, Javascript, HTML/CSS/Bootstrap.
 
 
 <!---
