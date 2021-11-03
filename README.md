@@ -4,9 +4,8 @@
 Hi There  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>, 
 I'm Cristopher. I am a Full Stack developer and Computer Science student at Hunter Colleger. I am skilled in Python, SQLite, Flask, C, Javascript, HTML/CSS/Bootstrap.
 
-How to reach me: <a href="www.linkedin.com/in/cristopher-soto-870106224">
-  <img align="left" alt="Cris' Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> [Gmail](mailto:criscodesnyc@gmail.com)
+:point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/cristopher-soto-870106224/)](https://www.linkedin.com/in/cristopher-soto-870106224/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:criscodesnyc@gmail.com)](mailto:criscodesnyc@gmail.com)
 
 <!---
 criscode97/criscode97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
