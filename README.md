@@ -1,9 +1,9 @@
-# Cristopher Soto - Full Stack Developer
+# Cristopher Soto - Software Engineer
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 Hi There  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="4%"></h2>, 
 I'm Cris, a 25-year-old developer based in NYC, currently pursuing a degree in Computer Science at Hunter College. I’m the type of person who loves learning new things.
-I am interested in full-stack development, cloud architecture, data visualization, and A.I.
+I am interested in data engineering/analysis, full-stack development, cloud architecture, data visualization, and A.I.
 
 Check out my website :point_right: <a href="http://criscodes.dev/" target="_blank">criscodes.dev</a>
 
