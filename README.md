@@ -5,7 +5,7 @@ Hi There  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangan
 I'm Cris, a 25-year-old developer based in NYC, currently pursuing a degree in Computer Science at Hunter College. I’m the type of person who loves learning new things.
 I am interested in data engineering/analysis, full-stack development, cloud architecture, data visualization, and A.I.
 
-Check out my website :point_right: <a href="http://criscodes.dev/" target="_blank">criscodes.dev</a>
+Check out my website :point_right: <a href="http://cristophersoto.com/" target="_blank">cristophersoto.com</a>
 
 or contact me :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/cristopher-soto-870106224/)](https://www.linkedin.com/in/cristopher-soto-870106224/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:criscodesnyc@gmail.com)](mailto:criscodesnyc@gmail.com)
